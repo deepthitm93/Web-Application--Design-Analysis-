@@ -4,7 +4,9 @@ Design Analysis and modelling:
 -
 Web application for Study abroad program(Group Project)
   -
-  -Software Development methodology: Agile and Water fall
+  -Software Development methodology:
+    
+    -Agile concepts [scrum,lean,burndown chart,story board, points]and Water fall
   -
   -Database-SQL
   -
